@@ -1,7 +1,8 @@
 # obscurinDB
 Database of obscurin single amino-acid variants and mapping to sequence and structural information
 
-- This is a resource for collecting and easily finding relevant data on specific obscurin SNVs		
+- This is a resource for collecting and easily finding relevant data on specific obscurin SNVs
+- .xlsx file - requires Microsoft Excel 2007 or later (or equivalent e.g. OpenOffice, LibreOffice, Apple Numbers)
 - Please use the interactable sheet to quickly search for SNV or SNVs required		
 	- Use Filters to search for SNVs - Click on drop-down arrow, enter search terms in search bar and	select SNVs desired by ticking the respective box; multiple SNVs can be selected if desired	
 		- Variant ID allows you to search by ID if you already know it (e.g. rs# for dbSNP)
